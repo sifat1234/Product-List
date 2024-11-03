@@ -1,0 +1,10 @@
+/* Red progress bar for "remove" toast */
+.red-progress {
+    background-color: red !important;
+  }
+  
+  /* Green progress bar for "add" toast */
+  .green-progress {
+    background-color: green !important;
+  }
+  
